@@ -43,3 +43,55 @@ index.html        # Página HTML com a lista de contatos
 ## 📸 Preview
 
 (imagem do projeto)
+
+---
+
+Contact List Project
+This repository contains a responsive front-end project built with HTML5 and CSS3, which simulates a modern contact list interface, created as a practical exercise to improve skills in web structuring, styling, and responsiveness.
+
+📋 About the Project
+The application displays a list of contacts featuring:
+
+📸 Custom profile pictures for each contact
+
+🧾 Clear and accessible display of name and email
+
+✏️ Visual edit and delete action icons (interface only, no JS functionality)
+
+All components are organized with a modular and responsive structure, using CSS Grid for layout and CSS variables (:root) for easy color and style management.
+
+💡 Features
+Responsive layout for mobile, tablet, and desktop screens
+
+Hover effects on contact cards
+
+Circular images with shadow for emphasis
+
+Semantic and clean HTML markup
+
+Reusable components focusing on modern CSS best practices
+
+🎯 Objective
+This project was developed to enhance my portfolio as a junior front-end developer, demonstrating proficiency in key markup and styling techniques, as well as attention to visual details and usability.
+
+🛠️ Technologies Used
+HTML5
+
+CSS3
+
+Google Fonts – Inter
+
+Responsive design with Grid Layout
+
+Component-based structure
+
+📁 Folder Structure
+bash
+Copiar
+Editar
+/img             # Contact photos and action icons  
+estilo2.css      # Main stylesheet  
+index.html       # HTML page with contact list 
+
+📸 Preview
+(Add a project screenshot here, if desired)
